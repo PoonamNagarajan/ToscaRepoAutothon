@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Tosca_Autothon_Repo.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Tosca_Autothon_Repo\Repository\Tosca_Autothon_Repo.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>MSSQLRepository</RepoClass>
+    <ConnectionData>031139008000000000000000004000011078045042075045178245209245244115213245008011014012115055142009014244113141008008114013014182118073044073076074044078181013201047078078140119044045201047201200207139119073178246204043073077047074044073077081008078077046045202044169180013014014240180006000053011240061084000000000</ConnectionData>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Poonamn</UserName>
+    <UserSurrogate>3a0c796b-824c-d9a3-d67a-b5c37e7285b0</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>83c6af5e-c3e2-4c48-8402-f4a0dedd71f0</TCWorkspaceID>
+  <TCCommonRepositoryID>627d3eef-9d09-44a5-b565-f328f35d722d</TCCommonRepositoryID>
+  <TCWorkspaceDescription />
+</TCWorkspace>
