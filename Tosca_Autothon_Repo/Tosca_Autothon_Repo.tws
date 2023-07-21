@@ -3,7 +3,7 @@
   <WorkspaceRepository>
     <RepoClass>SQLiteRepository</RepoClass>
     <DatabasePathAndName>.\Repository\Tosca_Autothon_Repo.db</DatabasePathAndName>
-    <Database>C:\Tosca_Projects\Tosca_Workspaces\Tosca_Autothon_Repo\Repository\Tosca_Autothon_Repo.db</Database>
+    <Database>C:\Data\GitRepo\ToscaRepoAutothon\Tosca_Autothon_Repo\Repository\Tosca_Autothon_Repo.db</Database>
     <DatabaseUser />
     <DatabasePwd />
     <DatabaseSchema />
