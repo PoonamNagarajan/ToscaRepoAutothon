@@ -1,0 +1,49 @@
+[3] 17:14:46: Log started for 'C:\Data\GitRepo\ToscaRepoAutothon\Tosca_Autothon_Repo\Tosca_Autothon_Repo.tws'
+[3] 17:14:46: Log level: 4
+[3] 17:14:46: Release: 30.1.31.0
+[3] 17:14:46: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 17:14:51: No service discovery configured.
+[3] 17:14:51:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.7.958 (958)
+[3] 17:14:51:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.7.958 (958)
+[3] 17:14:51:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.7.958 (958)
+[3] 17:14:51:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.7.958 (958)
+[3] 17:14:51:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.7.958 (958)
+[3] 17:14:51:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.7.958 (958)
+    - : QTestIntegration 15.0.0.183 (183)
+    + : SAPSolutionManagerIntegration 15.0.0.183 (183)
+[3] 17:14:51: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 17:14:51: Searcher found 0 results in 155.5225 ms
+[3] 17:14:52:  + OptIntAddIn: OptIntAddIn 15.0.7.958 (958)
+[3] 17:14:52:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.7.958 (958)
+[3] 17:14:52:  + RemoteControl: RemoteControlAddIn 15.0.7.958 (958)
+[3] 17:14:52:  + Reporting: ReportingAddIn 15.0.7.958 (958)
+[3] 17:14:52:  + ReportingUI: ReportingUIAddIn 15.0.7.958 (958)
+[3] 17:14:52:  - RequirementsManagementAddIn: RequirementsManagement 15.0.7.958 (958)
+[3] 17:14:52:  - RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.7.958 (958)
+[3] 17:14:52:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.7.958 (958)
+[3] 17:14:52:  - TestCaseDesign: TestCaseDesign 15.0.7.958 (958)
+[3] 17:14:52:  - ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.7.958 (958)
+[3] 17:14:52:  + XDefinitions: XDefinitions 15.0.7.958 (958)
+[3] 17:14:52:  + XDefinitionsUI: XDefinitionsUI 15.0.7.958 (958)
+[3] 17:14:52: Workspace.Login for 'Admin'succeeded
+[3] 17:14:52: API: Executing Task Tricentis.TCCore.Base.Tasks.TeamTasks.UpdateAllTask
+[3] 17:14:52: Started update with local revision 157 against common revision 160 with deferred revisions ''
+[3] 17:14:52: Task 'Update all' finished
+[3] 17:14:52: Search started on 'Tosca_Autothon_Repo' for query '=>SUBPARTS:TCFolder[(PossibleContent=?"ExecutionList") AND (ContinuousIntegrationBuildRootFolder=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 17:14:53: Searcher found 0 results in 333.7303 ms
+[3] 17:14:53: API: Executing Task Tricentis.TCCore.Base.Tasks.TeamTasks.CheckInAllTask
+[3] 17:14:53: QTestIntegrationAddIn beginning to Export to QTest
+[3] 17:14:53: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 17:14:53: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 17:14:53: LinkTcToQTestService grouping testcases by same endpoint
+[3] 17:14:53: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 17:14:53: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 17:14:53: ObjectVersioning is enabled
+[3] 17:14:53: ObjectVersioning: Start collecting deleted objects
+[3] 17:14:53: ObjectVersioning: Finished collecting deleted objects
+[3] 17:14:53: ObjectVersioning: Begin creating changeset for 0 clusters.
+[3] 17:14:53: ObjectVersioning: Finished creating changeset.
+[3] 17:14:53: Task 'Checkin all' finished
+[3] 17:14:53: Closing Workspace
+[3] 17:14:53: Closing Workspace!
+[3] 17:14:53: Log closed!

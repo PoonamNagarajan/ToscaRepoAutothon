@@ -16,8 +16,8 @@
     <DatabaseSchema />
   </CommonRepository>
   <DefaultUser>
-    <UserName>Poonam</UserName>
-    <UserSurrogate>3a0c89c8-96fa-e830-e277-4f543685e413</UserSurrogate>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a0c89ac-ef2a-8ee3-0260-37e7c32e20fc</UserSurrogate>
   </DefaultUser>
   <TCWorkspaceID>e1653afa-30b3-4186-b4f4-4aa5f436bd0e</TCWorkspaceID>
   <TCCommonRepositoryID>eba2d3e9-fcdd-45ab-90ae-72493dfec015</TCCommonRepositoryID>

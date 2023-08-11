@@ -26,3 +26,6 @@
 [3] 13:17:15:  + XDefinitionsUI: XDefinitionsUI 15.0.7.958 (958)
 [3] 13:17:15: Opened from Workspace File 'C:\Data\GitRepo\ToscaRepoAutothon\Tosca_Autothon_Repo\Tosca_Autothon_Repo.tws'
 [4] 13:17:18:  ShowStatusInfo: 'Ready'
+[3] 21:01:20: Layout not saved: No Panels or Tabbed Documents
+[3] 21:01:20: Closing Workspace!
+[3] 21:01:20: Log closed!
