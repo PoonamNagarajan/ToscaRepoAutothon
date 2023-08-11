@@ -2899,3 +2899,48 @@ The specified ID is not a valid UniqueId or NodePath'
 [4] 17:46:18:  ShowStatusInfo: 'Ready'
 [4] 17:46:45:  ShowStatusInfo: '1 object selected'
 [4] 17:46:50:  ShowStatusInfo: 'Ready'
+[4] 17:48:50:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 17:48:50:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository succeeded'
+[3] 17:48:51: QTestIntegrationAddIn beginning to Export to QTest
+[3] 17:48:51: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 17:48:51: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 17:48:51: LinkTcToQTestService grouping testcases by same endpoint
+[3] 17:48:51: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 17:48:51: QTestIntegrationAddIn finished unlinking objects from QTest
+[4] 17:48:51:  ShowStatusInfo: 'Connecting to GitHub repository...'
+[3] 17:48:55: ObjectVersioning is enabled
+[3] 17:48:55: ObjectVersioning: Start collecting deleted objects
+[3] 17:48:55: ObjectVersioning: Finished collecting deleted objects
+[3] 17:48:55: ObjectVersioning: Begin creating changeset for 0 clusters.
+[3] 17:48:55: ObjectVersioning: Finished creating changeset.
+[4] 17:48:55:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 17:48:56:  ShowStatusInfo: 'Ready'
+[4] 17:48:56:  ShowStatusInfo: 'Checkin all finalizing ... '
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 17:48:56:  ShowStatusInfo: 'Ready'
+[4] 17:48:56:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 17:48:56:  ShowStatusInfo: 'Ready'
+[4] 17:48:56:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 17:48:56:  ShowStatusInfo: 'Refresh all finished'
+[4] 17:48:56:  ShowStatusInfo: 'Checkin all finished'
+[3] 17:48:56: Task 'Checkin all' finished
+[3] 17:48:58: Closing Workspace!
+[3] 17:48:58: Log closed!
