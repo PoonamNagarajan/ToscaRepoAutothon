@@ -1,0 +1,36 @@
+[3] 15:20:39: Log started for 'C:\Data\GitRepo\ToscaRepoAutothon\Tosca_Autothon_Repo\Tosca_Autothon_Repo.tws'
+[3] 15:20:39: Log level: 4
+[3] 15:20:39: Release: 30.1.31.0
+[3] 15:20:39: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 15:20:45: No service discovery configured.
+[3] 15:20:45:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.7.958 (958)
+[3] 15:20:45:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.7.958 (958)
+[3] 15:20:45:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.7.958 (958)
+[3] 15:20:45:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.7.958 (958)
+[3] 15:20:45:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.7.958 (958)
+[3] 15:20:45:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.7.958 (958)
+    - : QTestIntegration 15.0.0.183 (183)
+    + : SAPSolutionManagerIntegration 15.0.0.183 (183)
+[3] 15:20:45: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 15:20:45: Searcher found 0 results in 211.4924 ms
+[3] 15:20:45:  + OptIntAddIn: OptIntAddIn 15.0.7.958 (958)
+[3] 15:20:45:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.7.958 (958)
+[3] 15:20:45:  + RemoteControl: RemoteControlAddIn 15.0.7.958 (958)
+[3] 15:20:45:  + Reporting: ReportingAddIn 15.0.7.958 (958)
+[3] 15:20:45:  + ReportingUI: ReportingUIAddIn 15.0.7.958 (958)
+[3] 15:20:45:  - RequirementsManagementAddIn: RequirementsManagement 15.0.7.958 (958)
+[3] 15:20:45:  - RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.7.958 (958)
+[3] 15:20:45:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.7.958 (958)
+[3] 15:20:45:  - TestCaseDesign: TestCaseDesign 15.0.7.958 (958)
+[3] 15:20:45:  - ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.7.958 (958)
+[3] 15:20:45:  + XDefinitions: XDefinitions 15.0.7.958 (958)
+[3] 15:20:45:  + XDefinitionsUI: XDefinitionsUI 15.0.7.958 (958)
+[3] 15:20:45: Workspace.Login for 'Poonam'succeeded
+[3] 15:20:45: API: Executing Task Tricentis.TCCore.Base.Tasks.TeamTasks.UpdateAllTask
+[3] 15:20:46: Started update with local revision 437 against common revision 438 with deferred revisions ''
+[3] 15:20:46: Task 'Update all' finished
+[3] 15:20:46: Search started on 'Tosca_Autothon_Repo' for query '->OBJECTS("3a0cf6ae-d679-be16-5079-c9e271ba44d8")->SELF:TestEvent'
+[3] 15:20:46: Searcher found 1 results in 16.9342 ms
+[3] 15:20:47: Closing Workspace
+[3] 15:20:47: Closing Workspace!
+[3] 15:20:47: Log closed!
