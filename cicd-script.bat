@@ -35,25 +35,25 @@ echo %$finaljwt%
 :: =========================================
 
 :: Task info
-set "$taskName=Tosca CI Jira"
+set "$taskName=Tosca CI Jira New2"
 set "$taskDescription=Uploading execution results from Tosca to Jira Zephyr"
 set "$automationFramework=junit"
 set "$projectKey=PRJCTSQD01"
 set "$versionName=Unscheduled"
 
 :: Cycle info
-set "$cycleName=Tosca CI Jira Integration"
+set "$cycleName=Tosca CI Jira Integrations"
 set "$createNewCycle=true"
-set "$appendDateTimeInCycleName=false"
+set "$appendDateTimeInCycleName=true"
 
 :: Folder info
-set "$folderName=Folder02"
+set "$folderName=Folder01"
 set "$createNewFolder=true"
-set "$appendDateTimeInFolderName=true"
+set "$appendDateTimeInFolderName=false"
 set "$assigneeUser=712020:5acbbb51-ae01-442a-9574-58216f53dc1e"
 
 :: Fully-qualitified name of the test result file
-set "$resultPath=@\"C:/Data/result.xml\"
+set "$resultPath=@\"C:\\Data\\result.xml\"
 
 set "$reporter={\"reporter\":{\"label\":\"Poonam.Nagarajan\",\"name\":\"Poonam.Nagarajan\",\"id\":\"712020:5acbbb51-ae01-442a-9574-58216f53dc1e\"}}"
 
