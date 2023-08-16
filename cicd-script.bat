@@ -53,7 +53,7 @@ set "$appendDateTimeInFolderName=true"
 set "$assigneeUser=712020:5acbbb51-ae01-442a-9574-58216f53dc1e"
 
 :: Fully-qualitified name of the test result file
-set "$resultPath=@\"result.xml\"
+set "$resultPath=@\"C:/Data/result.xml\"
 
 set "$reporter={\"reporter\":{\"label\":\"Poonam.Nagarajan\",\"name\":\"Poonam.Nagarajan\",\"id\":\"712020:5acbbb51-ae01-442a-9574-58216f53dc1e\"}}"
 
