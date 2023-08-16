@@ -35,15 +35,15 @@ echo %$finaljwt%
 :: =========================================
 
 :: Task info
-set "$taskName=Tosca CI New"
+set "$taskName=Tosca CI Jira"
 set "$taskDescription=Uploading execution results from Tosca to Jira Zephyr"
 set "$automationFramework=junit"
 set "$projectKey=PRJCTSQD01"
 set "$versionName=Unscheduled"
 
 :: Cycle info
-set "$cycleName=Tosca Upload"
-set "$createNewCycle=false"
+set "$cycleName=Tosca CI Jira Integration"
+set "$createNewCycle=true"
 set "$appendDateTimeInCycleName=false"
 
 :: Folder info
