@@ -35,7 +35,7 @@ echo %$finaljwt%
 :: =========================================
 
 :: Task info
-set "$taskName=Tosca CI Jira New3"
+set "$taskName=Tosca CI Jira New4"
 set "$taskDescription=Uploading execution results from Tosca to Jira Zephyr"
 set "$automationFramework=junit"
 set "$projectKey=PRJCTSQD01"
