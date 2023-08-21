@@ -1,0 +1,68 @@
+[3] 20:21:22: Log started for 'C:\Data\GitRepo\ToscaRepoAutothon\ToscaAutothonRepo\ToscaAutothonRepo.tws'
+[3] 20:21:22: Log level: 4
+[3] 20:21:22: Release: 30.1.31.0
+[3] 20:21:22: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 20:21:25: No service discovery configured.
+[3] 20:21:25:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.7.958 (958)
+[3] 20:21:25:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.7.958 (958)
+[3] 20:21:25:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.7.958 (958)
+[3] 20:21:25:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.7.958 (958)
+[3] 20:21:25:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.7.958 (958)
+[3] 20:21:25:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.7.958 (958)
+    - : QTestIntegration 15.0.0.183 (183)
+    + : SAPSolutionManagerIntegration 15.0.0.183 (183)
+[3] 20:21:25: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 20:21:26: Searcher found 0 results in 332.1711 ms
+[3] 20:21:26:  + OptIntAddIn: OptIntAddIn 15.0.7.958 (958)
+[3] 20:21:26:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.7.958 (958)
+[3] 20:21:26:  + RemoteControl: RemoteControlAddIn 15.0.7.958 (958)
+[3] 20:21:26:  + Reporting: ReportingAddIn 15.0.7.958 (958)
+[3] 20:21:26:  + ReportingUI: ReportingUIAddIn 15.0.7.958 (958)
+[3] 20:21:26:  + RequirementsManagementAddIn: RequirementsManagement 15.0.7.958 (958)
+[3] 20:21:26:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.7.958 (958)
+[3] 20:21:26:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.7.958 (958)
+[3] 20:21:26:  + TestCaseDesign: TestCaseDesign 15.0.7.958 (958)
+[3] 20:21:26:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.7.958 (958)
+[3] 20:21:26:  + XDefinitions: XDefinitions 15.0.7.958 (958)
+[3] 20:21:26:  + XDefinitionsUI: XDefinitionsUI 15.0.7.958 (958)
+[3] 20:21:26: Workspace.Login for 'Poonam'succeeded
+[3] 20:21:26: API: Executing Task Tricentis.TCCore.Base.Tasks.TeamTasks.CheckCommonRepositoryAccessAvailabilityTask
+[3] 20:21:26: Task 'Check common repository read/write availability' finished
+[3] 20:21:26: API: Executing Task Tricentis.TCCore.Base.Tasks.TeamTasks.UpdateAllTask
+[3] 20:21:26: Task 'Update all' finished
+[3] 20:21:27: API: Executing Task Tricentis.TCAddIns.Reporting.Tasks.PrintReportTask.EXPL_TestAutothon_Report
+[3] 20:21:27: Resolved assembly 'CrystalDecisions.ReportAppServer.ClientDoc, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.ClientDoc.dll'
+[3] 20:21:27: Resolved assembly 'CrystalDecisions.ReportAppServer.DataDefModel, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.DataDefModel.dll'
+[3] 20:21:27: Search started on 1 objects for query '->SELF:ExecutionList'
+[3] 20:21:27: Searcher found 1 results in 0.9989 ms
+[3] 20:21:27: Search started on 1 objects for query '=>SUBPARTS:ExecutionEntry'
+[3] 20:21:27: Searcher found 2 results in 12.7259 ms
+[3] 20:21:27: Search started on 2 objects for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 20:21:27: Searcher found 2 results in 73.2849 ms
+[3] 20:21:27: Search started on 1 objects for query '=>SUBPARTS:ExecutionEntry'
+[3] 20:21:27: Searcher found 2 results in 0 ms
+[3] 20:21:27: Search started on 2 objects for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 20:21:27: Searcher found 2 results in 1.0083 ms
+[3] 20:21:27: Search started on 'Test Autothon Hackathon' for query '->SELF:ExecutionList'
+[3] 20:21:27: Searcher found 1 results in 2.0826 ms
+[3] 20:21:28: Search started on 'Test Autothon Hackathon' for query '=>SUBPARTS:ExecutionEntry'
+[3] 20:21:28: Searcher found 2 results in 0 ms
+[3] 20:21:28: Search started on 'Amazon Browser Adding to Cart' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 20:21:28: Searcher found 1 results in 0.9875 ms
+[3] 20:21:28: Search started on 'Amazon Browser Adding to Cart' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 20:21:28: Searcher found 0 results in 0 ms
+[3] 20:21:28: Search started on 'Spotify API Exploration' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 20:21:28: Searcher found 1 results in 0 ms
+[3] 20:21:28: Search started on 'Spotify API Exploration' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 20:21:28: Searcher found 0 results in 0 ms
+[3] 20:21:28: Search started on 'Test Autothon Hackathon' for query '=>SUBPARTS:ExecutionEntry'
+[3] 20:21:28: Searcher found 2 results in 0 ms
+[3] 20:21:28: Search started on 'Amazon Browser Adding to Cart' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 20:21:28: Searcher found 1 results in 1.0009 ms
+[3] 20:21:28: Search started on 'Spotify API Exploration' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 20:21:28: Searcher found 1 results in 0 ms
+[3] 20:21:29: Task 'Print Report ... EXPL_TestAutothon_Report' finished
+[3] 20:21:29: Saving changes
+[3] 20:22:32: Closing Workspace
+[3] 20:22:32: Closing Workspace!
+[3] 20:22:32: Log closed!
