@@ -1,0 +1,62 @@
+[3] 14:52:15: Log started for 'C:\Data\GitRepo\ToscaRepoAutothon\ToscaAutothonRepo\ToscaAutothonRepo.tws'
+[3] 14:52:15: Log level: 4
+[3] 14:52:15: Release: 30.1.31.0
+[3] 14:52:15: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 14:52:17: No service discovery configured.
+[3] 14:52:17:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.7.958 (958)
+[3] 14:52:17:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.7.958 (958)
+[3] 14:52:17:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.7.958 (958)
+[3] 14:52:17:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.7.958 (958)
+[3] 14:52:17:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.7.958 (958)
+[3] 14:52:17:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.7.958 (958)
+    - : QTestIntegration 15.0.0.183 (183)
+    + : SAPSolutionManagerIntegration 15.0.0.183 (183)
+[3] 14:52:17: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 14:52:17: Searcher found 0 results in 51.1164 ms
+[3] 14:52:17:  + OptIntAddIn: OptIntAddIn 15.0.7.958 (958)
+[3] 14:52:17:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.7.958 (958)
+[3] 14:52:17:  + RemoteControl: RemoteControlAddIn 15.0.7.958 (958)
+[3] 14:52:17:  + Reporting: ReportingAddIn 15.0.7.958 (958)
+[3] 14:52:17:  + ReportingUI: ReportingUIAddIn 15.0.7.958 (958)
+[3] 14:52:17:  - RequirementsManagementAddIn: RequirementsManagement 15.0.7.958 (958)
+[3] 14:52:17:  - RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.7.958 (958)
+[3] 14:52:17:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.7.958 (958)
+[3] 14:52:17:  - TestCaseDesign: TestCaseDesign 15.0.7.958 (958)
+[3] 14:52:17:  - ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.7.958 (958)
+[3] 14:52:17:  + XDefinitions: XDefinitions 15.0.7.958 (958)
+[3] 14:52:17:  + XDefinitionsUI: XDefinitionsUI 15.0.7.958 (958)
+[3] 14:52:17: Workspace.Login for 'Poonam'succeeded
+[3] 14:52:17: API: Executing Task Tricentis.TCCore.Base.Tasks.TeamTasks.UpdateAllTask
+[3] 14:52:17: Started update with local revision 642 against common revision 644 with deferred revisions ''
+[3] 14:52:18: Updating to Revision: 644
+[3] 14:52:18: Task 'Update all' finished
+[3] 14:52:18: Search started on 'Tosca_Autothon_Repo' for query '->OBJECTS("3a0d1484-818f-2218-3334-208beb946ed0")->SELF:ExecutionList'
+[3] 14:52:18: Searcher found 1 results in 6.0038 ms
+[3] 14:52:18: API: Executing Task Tricentis.TCCore.Base.Tasks.IncludeNecessaryItemsForSynchronizationTask
+[3] 14:52:18: Task 'Include all necessary Items' finished
+[3] 14:52:18: API: Executing Task Tricentis.TCCore.Base.Tasks.TeamTasks.CheckOutTask
+[3] 14:52:18: Task 'Checkout' finished
+[3] 14:52:19: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.RunExecutionListTask
+[3] 14:52:36: AgentResults count: 1
+[3] 14:52:37: executionResponses count: 1
+[3] 14:52:38: Task 'Run' finished
+[3] 14:52:38: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.RunExecutionListTask
+[3] 14:59:07: AgentResults count: 1
+[3] 14:59:09: executionResponses count: 1
+[3] 14:59:10: Task 'Run' finished
+[3] 14:59:10: API: Executing Task Tricentis.TCCore.Base.Tasks.TeamTasks.CheckInAllTask
+[3] 14:59:10: QTestIntegrationAddIn beginning to Export to QTest
+[3] 14:59:10: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 14:59:10: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 14:59:10: LinkTcToQTestService grouping testcases by same endpoint
+[3] 14:59:10: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 14:59:10: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 14:59:10: ObjectVersioning is enabled
+[3] 14:59:10: ObjectVersioning: Start collecting deleted objects
+[3] 14:59:10: ObjectVersioning: Finished collecting deleted objects
+[3] 14:59:10: ObjectVersioning: Begin creating changeset for 2 clusters.
+[3] 14:59:10: ObjectVersioning: Finished creating changeset.
+[3] 14:59:10: Task 'Checkin all' finished
+[3] 14:59:10: Closing Workspace
+[3] 14:59:10: Closing Workspace!
+[3] 14:59:10: Log closed!
