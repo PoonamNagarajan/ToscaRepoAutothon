@@ -1441,3 +1441,778 @@
 [4] 09:20:59:  ShowStatusInfo: 'Checkin all finished'
 [3] 09:20:59: Task 'Checkin all' finished
 [4] 09:21:04:  ShowStatusInfo: 'Ready'
+[4] 09:37:03:  ShowStatusInfo: 'Update all: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 09:37:03:  ShowStatusInfo: 'Update all: Connecting to Common Repository succeeded'
+[3] 09:37:03: Started update with local revision 767 against common revision 773 with deferred revisions ''
+[3] 09:37:03: Updating to Revision: 772
+[3] 09:37:03: Updating to Revision: 772
+[4] 09:37:03:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 09:37:03:  ShowStatusInfo: 'Ready'
+[4] 09:37:03:  ShowStatusInfo: 'Update all finalizing ... '
+[4] 09:37:03:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 09:37:03:  ShowStatusInfo: 'Ready'
+[4] 09:37:03:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 09:37:03:  ShowStatusInfo: 'Ready'
+[4] 09:37:03:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:37:03:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:37:03:  ShowStatusInfo: 'Update all finished'
+[3] 09:37:03: Task 'Update all' finished
+[4] 09:37:08:  ShowStatusInfo: 'Ready'
+[4] 09:37:18:  ShowStatusInfo: '1 object selected'
+[4] 09:37:18:  ShowStatusInfo: 'Ready'
+[4] 09:37:21:  ShowStatusInfo: '1 object selected'
+[4] 09:37:22:  ShowStatusInfo: 'Ready'
+[4] 09:37:22:  ShowStatusInfo: '1 object selected'
+[3] 09:37:25: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 09:37:25: Searcher found 0 results in 0 ms
+[3] 09:37:25: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 09:37:25: Searcher found 0 results in 0 ms
+[4] 09:37:25:  ShowStatusInfo: 'Ready'
+[3] 09:37:32: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 09:37:32: Searcher found 0 results in 0 ms
+[4] 09:37:32:  ShowStatusInfo: '1 object selected'
+[3] 09:37:32: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 09:37:32: Searcher found 0 results in 0 ms
+[4] 09:37:33:  ShowStatusInfo: 'Ready'
+[3] 09:37:33: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 09:37:33: Searcher found 0 results in 0 ms
+[4] 09:37:33:  ShowStatusInfo: '1 object selected'
+[3] 09:37:33: Search started on 1 objects for query '=>SUBPARTS:ExecutionXTestStepValueLog->TableSnapshot'
+[3] 09:37:33: Searcher found 0 results in 0 ms
+[4] 09:37:38:  ShowStatusInfo: 'Ready'
+[4] 09:40:00:  ShowStatusInfo: '1 object selected'
+[4] 09:40:00:  ShowStatusInfo: 'Ready'
+[4] 09:40:01:  ShowStatusInfo: '1 object selected'
+[4] 09:40:01:  ShowStatusInfo: 'Ready'
+[4] 09:40:02:  ShowStatusInfo: '1 object selected'
+[4] 09:40:02:  ShowStatusInfo: 'Ready'
+[3] 09:40:03: Task 'Jump to TestCase' started on '/Autothon/Execution/ExecutionLists/TestAutothon/Test Autothon Hackathon_TM_01/Test Autothon Hackathon/Test case to upload screenshot to Instagram'
+[4] 09:40:03:  ShowStatusInfo: 'Jump to TestCase'
+[4] 09:40:03:  ShowStatusInfo: 'Ready'
+[4] 09:40:03:  ShowStatusInfo: 'Jump to TestCase finalizing ... '
+[4] 09:40:03:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 09:40:03:  ShowStatusInfo: 'Ready'
+[4] 09:40:03:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 09:40:03:  ShowStatusInfo: 'Ready'
+[4] 09:40:03:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:40:03:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:40:03:  ShowStatusInfo: 'Jump to TestCase finished'
+[3] 09:40:03: Task 'Jump to TestCase' finished
+[4] 09:40:05:  ShowStatusInfo: 'Ready'
+[4] 09:40:05:  ShowStatusInfo: '1 object selected'
+[4] 09:40:07:  ShowStatusInfo: 'Ready'
+[4] 09:40:07:  ShowStatusInfo: '1 object selected'
+[4] 09:40:09:  ShowStatusInfo: 'Ready'
+[4] 09:40:09:  ShowStatusInfo: '1 object selected'
+[4] 09:40:09:  ShowStatusInfo: 'Ready'
+[4] 09:40:10:  ShowStatusInfo: '1 object selected'
+[4] 09:40:11:  ShowStatusInfo: 'Ready'
+[4] 09:40:11:  ShowStatusInfo: '1 object selected'
+[4] 09:40:12:  ShowStatusInfo: 'Ready'
+[4] 09:40:12:  ShowStatusInfo: '1 object selected'
+[4] 09:40:13:  ShowStatusInfo: 'Ready'
+[4] 09:40:13:  ShowStatusInfo: '1 object selected'
+[4] 09:40:15:  ShowStatusInfo: 'Ready'
+[4] 09:40:15:  ShowStatusInfo: '1 object selected'
+[4] 09:40:17:  ShowStatusInfo: 'Ready'
+[4] 09:40:24:  ShowStatusInfo: '1 object selected'
+[4] 09:40:24:  ShowStatusInfo: 'Ready'
+[4] 09:46:13:  ShowStatusInfo: '1 object selected'
+[4] 09:46:13:  ShowStatusInfo: 'Ready'
+[4] 09:46:14:  ShowStatusInfo: '1 object selected'
+[4] 09:46:15:  ShowStatusInfo: 'Ready'
+[4] 09:46:16:  ShowStatusInfo: '1 object selected'
+[4] 09:46:17:  ShowStatusInfo: 'Ready'
+[4] 09:46:17:  ShowStatusInfo: '1 object selected'
+[4] 09:46:19:  ShowStatusInfo: 'Ready'
+[4] 09:46:19:  ShowStatusInfo: '1 object selected'
+[4] 09:46:20:  ShowStatusInfo: 'Ready'
+[4] 09:46:20:  ShowStatusInfo: '1 object selected'
+[4] 09:46:21:  ShowStatusInfo: 'Ready'
+[4] 09:46:21:  ShowStatusInfo: '1 object selected'
+[4] 09:46:22:  ShowStatusInfo: 'Ready'
+[4] 09:46:22:  ShowStatusInfo: '1 object selected'
+[4] 09:46:22:  ShowStatusInfo: 'Ready'
+[3] 09:46:23: Task 'Jump to ReusableTestStepBlock' started on '/Autothon/Jainesh/TestCases/GUI/Browser Test case to Post Tweet and store the tweet in local folder as screenshot/Process/Search Post/SearchLibrary_Reference'
+[4] 09:46:23:  ShowStatusInfo: 'Jump to ReusableTestStepBlock'
+[4] 09:46:23:  ShowStatusInfo: 'Ready'
+[4] 09:46:23:  ShowStatusInfo: 'Jump to ReusableTestStepBlock finalizing ... '
+[4] 09:46:23:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 09:46:23:  ShowStatusInfo: 'Ready'
+[4] 09:46:23:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 09:46:23:  ShowStatusInfo: 'Ready'
+[4] 09:46:23:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:46:23:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:46:23:  ShowStatusInfo: 'Jump to ReusableTestStepBlock finished'
+[3] 09:46:23: Task 'Jump to ReusableTestStepBlock' finished
+[4] 09:46:25:  ShowStatusInfo: 'Ready'
+[4] 09:46:25:  ShowStatusInfo: '1 object selected'
+[4] 09:46:29:  ShowStatusInfo: 'Ready'
+[4] 09:46:29:  ShowStatusInfo: '1 object selected'
+[4] 09:46:30:  ShowStatusInfo: 'Ready'
+[4] 09:46:30:  ShowStatusInfo: '1 object selected'
+[4] 09:46:32:  ShowStatusInfo: 'Ready'
+[4] 09:46:33:  ShowStatusInfo: '1 object selected'
+[4] 09:46:38:  ShowStatusInfo: 'Ready'
+[4] 09:46:40:  ShowStatusInfo: '1 object selected'
+[4] 09:46:40:  ShowStatusInfo: 'Ready'
+[4] 09:46:41:  ShowStatusInfo: '1 object selected'
+[4] 09:46:41:  ShowStatusInfo: 'Ready'
+[4] 09:47:22:  ShowStatusInfo: '1 object selected'
+[4] 09:47:22:  ShowStatusInfo: 'Ready'
+[4] 09:47:26:  ShowStatusInfo: '1 object selected'
+[4] 09:47:29:  ShowStatusInfo: 'Ready'
+[4] 09:47:29:  ShowStatusInfo: '1 object selected'
+[4] 09:47:30:  ShowStatusInfo: 'Ready'
+[4] 09:47:31:  ShowStatusInfo: '1 object selected'
+[4] 09:47:31:  ShowStatusInfo: 'Ready'
+[3] 09:47:33: Task 'Jump to ReusableTestStepBlock' started on '/Autothon/Jainesh/TestCases/GUI/Browser Test case to Post Tweet and store the tweet in local folder as screenshot/Process/Search Post/SearchLibrary_Reference'
+[4] 09:47:33:  ShowStatusInfo: 'Jump to ReusableTestStepBlock'
+[4] 09:47:33:  ShowStatusInfo: 'Ready'
+[4] 09:47:33:  ShowStatusInfo: 'Jump to ReusableTestStepBlock finalizing ... '
+[4] 09:47:33:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 09:47:33:  ShowStatusInfo: 'Ready'
+[4] 09:47:33:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 09:47:33:  ShowStatusInfo: 'Ready'
+[4] 09:47:33:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:47:33:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:47:33:  ShowStatusInfo: 'Jump to ReusableTestStepBlock finished'
+[3] 09:47:33: Task 'Jump to ReusableTestStepBlock' finished
+[4] 09:47:38:  ShowStatusInfo: 'Ready'
+[4] 09:47:59:  ShowStatusInfo: '1 object selected'
+[4] 09:47:59:  ShowStatusInfo: 'Ready'
+[4] 09:48:01:  ShowStatusInfo: '1 object selected'
+[4] 09:48:06:  ShowStatusInfo: 'Ready'
+[4] 09:48:07:  ShowStatusInfo: '1 object selected'
+[4] 09:48:07:  ShowStatusInfo: 'Ready'
+[4] 09:48:08:  ShowStatusInfo: '1 object selected'
+[4] 09:48:08:  ShowStatusInfo: 'Ready'
+[3] 09:48:09: Task 'Jump to ReusableTestStepBlock' started on '/Autothon/Jainesh/TestCases/GUI/Browser Test case to Post Tweet and store the tweet in local folder as screenshot/Process/Search Post/SearchLibrary_Reference'
+[4] 09:48:09:  ShowStatusInfo: 'Jump to ReusableTestStepBlock'
+[4] 09:48:09:  ShowStatusInfo: 'Ready'
+[4] 09:48:09:  ShowStatusInfo: 'Jump to ReusableTestStepBlock finalizing ... '
+[4] 09:48:09:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 09:48:09:  ShowStatusInfo: 'Ready'
+[4] 09:48:09:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 09:48:09:  ShowStatusInfo: 'Ready'
+[4] 09:48:09:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 09:48:09:  ShowStatusInfo: 'Refresh all finished'
+[4] 09:48:09:  ShowStatusInfo: 'Jump to ReusableTestStepBlock finished'
+[3] 09:48:09: Task 'Jump to ReusableTestStepBlock' finished
+[4] 09:48:14:  ShowStatusInfo: 'Ready'
+[4] 09:48:30:  ShowStatusInfo: '1 object selected'
+[4] 09:48:30:  ShowStatusInfo: 'Ready'
+[4] 09:48:31:  ShowStatusInfo: '1 object selected'
+[4] 09:48:31:  ShowStatusInfo: 'Ready'
+[4] 09:48:32:  ShowStatusInfo: '1 object selected'
+[4] 09:48:33:  ShowStatusInfo: 'Ready'
+[4] 09:48:34:  ShowStatusInfo: '1 object selected'
+[4] 09:48:34:  ShowStatusInfo: 'Ready'
+[4] 09:48:35:  ShowStatusInfo: '1 object selected'
+[4] 09:48:35:  ShowStatusInfo: 'Ready'
+[4] 09:49:23:  ShowStatusInfo: '1 object selected'
+[4] 09:49:28:  ShowStatusInfo: 'Ready'
+[4] 09:49:29:  ShowStatusInfo: '1 object selected'
+[4] 09:49:34:  ShowStatusInfo: 'Ready'
+[4] 09:53:47:  ShowStatusInfo: '1 object selected'
+[4] 09:53:53:  ShowStatusInfo: 'Ready'
+[4] 09:54:12:  ShowStatusInfo: '1 object selected'
+[4] 09:54:17:  ShowStatusInfo: 'Ready'
+[4] 10:00:05:  ShowStatusInfo: 'Update all: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 10:00:05:  ShowStatusInfo: 'Update all: Connecting to Common Repository succeeded'
+[3] 10:00:05: Started update with local revision 773 against common revision 774 with deferred revisions ''
+[4] 10:00:05:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 10:00:05:  ShowStatusInfo: 'Ready'
+[4] 10:00:05:  ShowStatusInfo: 'Update all finalizing ... '
+[4] 10:00:05:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:00:05:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 10:00:05:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 10:00:06:  ShowStatusInfo: 'Ready'
+[4] 10:00:06:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 10:00:06:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 10:00:06:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:00:06:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 10:00:06:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 10:00:06:  ShowStatusInfo: 'Ready'
+[4] 10:00:06:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 10:00:06:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 10:00:06:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:00:06:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:00:06:  ShowStatusInfo: 'Update all finished'
+[3] 10:00:06: Task 'Update all' finished
+[4] 10:00:11:  ShowStatusInfo: 'Ready'
+[4] 10:00:13:  ShowStatusInfo: '1 object selected'
+[4] 10:00:13:  ShowStatusInfo: 'Ready'
+[4] 10:00:14:  ShowStatusInfo: '1 object selected'
+[4] 10:00:14:  ShowStatusInfo: 'Ready'
+[3] 10:00:15: Task 'Jump to TestCase' started on '/Autothon/Execution/ExecutionLists/TestAutothon/Test Autothon Hackathon_TM_01/Test Autothon Hackathon/Test case to upload screenshot to Instagram'
+[4] 10:00:15:  ShowStatusInfo: 'Jump to TestCase'
+[4] 10:00:15:  ShowStatusInfo: 'Ready'
+[4] 10:00:15:  ShowStatusInfo: 'Jump to TestCase finalizing ... '
+[4] 10:00:15:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 10:00:15:  ShowStatusInfo: 'Ready'
+[4] 10:00:15:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 10:00:15:  ShowStatusInfo: 'Ready'
+[4] 10:00:15:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:00:15:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:00:15:  ShowStatusInfo: 'Jump to TestCase finished'
+[3] 10:00:15: Task 'Jump to TestCase' finished
+[4] 10:00:20:  ShowStatusInfo: 'Ready'
+[4] 10:00:20:  ShowStatusInfo: '1 object selected'
+[4] 10:00:24:  ShowStatusInfo: 'Ready'
+[4] 10:00:24:  ShowStatusInfo: '1 object selected'
+[4] 10:00:25:  ShowStatusInfo: 'Ready'
+[4] 10:00:25:  ShowStatusInfo: '1 object selected'
+[4] 10:00:29:  ShowStatusInfo: 'Ready'
+[4] 10:00:29:  ShowStatusInfo: '1 object selected'
+[4] 10:00:33:  ShowStatusInfo: 'Ready'
+[4] 10:00:33:  ShowStatusInfo: '1 object selected'
+[4] 10:00:34:  ShowStatusInfo: 'Ready'
+[4] 10:00:34:  ShowStatusInfo: '1 object selected'
+[4] 10:00:38:  ShowStatusInfo: 'Ready'
+[4] 10:00:38:  ShowStatusInfo: '1 object selected'
+[4] 10:00:39:  ShowStatusInfo: 'Ready'
+[4] 10:00:39:  ShowStatusInfo: '1 object selected'
+[4] 10:00:44:  ShowStatusInfo: 'Ready'
+[4] 10:00:45:  ShowStatusInfo: '1 object selected'
+[4] 10:00:47:  ShowStatusInfo: 'Ready'
+[4] 10:00:47:  ShowStatusInfo: '1 object selected'
+[4] 10:00:51:  ShowStatusInfo: 'Ready'
+[4] 10:00:51:  ShowStatusInfo: '1 object selected'
+[4] 10:00:51:  ShowStatusInfo: 'Ready'
+[4] 10:00:52:  ShowStatusInfo: '1 object selected'
+[4] 10:00:55:  ShowStatusInfo: 'Ready'
+[4] 10:00:55:  ShowStatusInfo: '1 object selected'
+[4] 10:01:00:  ShowStatusInfo: 'Ready'
+[4] 10:01:01:  ShowStatusInfo: '1 object selected'
+[4] 10:01:06:  ShowStatusInfo: 'Ready'
+[4] 10:01:08:  ShowStatusInfo: '1 object selected'
+[4] 10:01:12:  ShowStatusInfo: 'Ready'
+[4] 10:01:12:  ShowStatusInfo: '1 object selected'
+[4] 10:01:17:  ShowStatusInfo: 'Ready'
+[4] 10:01:19:  ShowStatusInfo: '1 object selected'
+[4] 10:01:24:  ShowStatusInfo: 'Ready'
+[4] 10:01:27:  ShowStatusInfo: '1 object selected'
+[4] 10:01:28:  ShowStatusInfo: 'Ready'
+[4] 10:01:28:  ShowStatusInfo: '1 object selected'
+[4] 10:01:33:  ShowStatusInfo: 'Ready'
+[4] 10:25:29:  ShowStatusInfo: 'Update all: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 10:25:29:  ShowStatusInfo: 'Update all: Connecting to Common Repository succeeded'
+[3] 10:25:30: Started update with local revision 774 against common revision 777 with deferred revisions ''
+[3] 10:25:30: Updating to Revision: 775
+[3] 10:25:30: Updating to Revision: 777
+[3] 10:25:30: Updating to Revision: 775
+[3] 10:25:30: Updating to Revision: 777
+[4] 10:25:30:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 10:25:30:  ShowStatusInfo: 'Ready'
+[4] 10:25:30:  ShowStatusInfo: 'Update all finalizing ... '
+[4] 10:25:30:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 10:25:30:  ShowStatusInfo: 'Ready'
+[4] 10:25:30:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 10:25:30:  ShowStatusInfo: 'Ready'
+[4] 10:25:30:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:25:30:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:25:30:  ShowStatusInfo: 'Update all finished'
+[3] 10:25:30: Task 'Update all' finished
+[4] 10:25:35:  ShowStatusInfo: 'Ready'
+[4] 10:25:35:  ShowStatusInfo: '1 object selected'
+[4] 10:25:35:  ShowStatusInfo: 'Ready'
+[4] 10:25:36:  ShowStatusInfo: '1 object selected'
+[4] 10:25:36:  ShowStatusInfo: 'Ready'
+[3] 10:25:40: Task 'Print Report ... EXPL_TestAutothon_Report' started on '/Autothon/Execution/ExecutionLists/TestAutothon/Test Autothon Hackathon'
+[4] 10:25:40:  ShowStatusInfo: 'Print Report ... EXPL_TestAutothon_Report'
+[3] 10:25:41: Resolved assembly 'CrystalDecisions.ReportAppServer.ClientDoc, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.ClientDoc.dll'
+[3] 10:25:41: Resolved assembly 'CrystalDecisions.ReportAppServer.DataDefModel, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\CrystalReports\CrystalDecisions.ReportAppServer.DataDefModel.dll'
+[3] 10:25:41: Search started on 1 objects for query '->SELF:ExecutionList'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 1 objects for query '=>SUBPARTS:ExecutionEntry'
+[3] 10:25:41: Searcher found 3 results in 0 ms
+[3] 10:25:41: Search started on 3 objects for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 3 results in 0 ms
+[3] 10:25:41: Search started on 1 objects for query '=>SUBPARTS:ExecutionEntry'
+[3] 10:25:41: Searcher found 3 results in 0 ms
+[3] 10:25:41: Search started on 3 objects for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 3 results in 0 ms
+[3] 10:25:41: Search started on 3 objects for query '->ExecutionSubLogs:ExecutionXTestStepLog'
+[3] 10:25:41: Searcher found 163 results in 38.1543 ms
+[3] 10:25:41: Search started on 163 objects for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 13 results in 9.0091 ms
+[3] 10:25:41: Search started on 'Test Autothon Hackathon' for query '->SELF:ExecutionList'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Test Autothon Hackathon' for query '=>SUBPARTS:ExecutionEntry'
+[3] 10:25:41: Searcher found 3 results in 0 ms
+[3] 10:25:41: Search started on 'API Test case to Post Tweet in Twitter' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'API Test case to Post Tweet in Twitter' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Browser Test case to Post Tweet and store the tweet in local folder as screenshot' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Browser Test case to Post Tweet and store the tweet in local folder as screenshot' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Test case to upload screenshot to Instagram' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Test case to upload screenshot to Instagram' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Test Autothon Hackathon' for query '=>SUBPARTS:ExecutionEntry'
+[3] 10:25:41: Searcher found 3 results in 0 ms
+[3] 10:25:41: Search started on 'API Test case to Post Tweet in Twitter' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'API Test case to Post Tweet in Twitter' for query '->ExecutionSubLogs:ExecutionXTestStepLog'
+[3] 10:25:41: Searcher found 5 results in 0 ms
+[3] 10:25:41: Search started on 'Buffer the Tweet Text for GUI Verification' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'New Message Request' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'New Message Response' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'New Message Request' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'New Message Response' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Browser Test case to Post Tweet and store the tweet in local folder as screenshot' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Browser Test case to Post Tweet and store the tweet in local folder as screenshot' for query '->ExecutionSubLogs:ExecutionXTestStepLog'
+[3] 10:25:41: Searcher found 42 results in 0 ms
+[3] 10:25:41: Search started on 'Open Twitter url in browser' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait until Twitter page opens' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Verify Twitter (X )page opens' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Log in to Twitter / X' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter password' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Set the start loop for Posting Tweet' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for search Result' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Search Text' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for application fully loaded for screen capture' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Taking Tweet screenshot and storing the value in the given Path' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Dynamic wait till file getting downloaded' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Verify Tweet screenshot is stored in the respective location' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for search Result' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Search Text' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for application fully loaded for screen capture' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Taking Tweet screenshot and storing the value in the given Path' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Dynamic wait till file getting downloaded' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Verify Tweet screenshot is stored in the respective location' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for search Result' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Search Text' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for application fully loaded for screen capture' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Taking Tweet screenshot and storing the value in the given Path' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Dynamic wait till file getting downloaded' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Verify Tweet screenshot is stored in the respective location' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for search Result' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Search Text' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for application fully loaded for screen capture' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Taking Tweet screenshot and storing the value in the given Path' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Dynamic wait till file getting downloaded' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Verify Tweet screenshot is stored in the respective location' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for search Result' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Search Text' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for application fully loaded for screen capture' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Taking Tweet screenshot and storing the value in the given Path' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Dynamic wait till file getting downloaded' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Verify Tweet screenshot is stored in the respective location' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Select Profile Name and select Logout' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 2 results in 0 ms
+[3] 10:25:41: Search started on 'Logout Verification Popup' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Verify User is successfully logged out' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Wait until Browser is closed successfully' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'TBox Start Program' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'TBox Clipboard' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Test case to upload screenshot to Instagram' for query '=>ActualLog:ExecutionTestCaseLog=>ExecutionEntry=>ActualLog'
+[3] 10:25:41: Searcher found 1 results in 0 ms
+[3] 10:25:41: Search started on 'Test case to upload screenshot to Instagram' for query '->ExecutionSubLogs:ExecutionXTestStepLog'
+[3] 10:25:41: Searcher found 116 results in 0 ms
+[3] 10:25:41: Search started on 'Open Instagram in Mobile Browser' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Log in Button' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter the Username and Password' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Upload File 1 to Mobile Device' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Upload File 2 to Mobile Device' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Upload File 3 to Mobile Device' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Upload File 4 to Mobile Device' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Upload File 5 to Mobile Device' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Plus Options Button' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Start Post Process & Click on Post Button' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Select Image 1 for post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Done' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Next' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter the HashTag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Proceed' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Tag People' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Image to Continue' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Tag Name to Search Stepinforum' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Select the Stepin forumTag Name' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Image to Continue' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Tag Name to Search VeritySoftware' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Select the VeritySoftware Tag Name' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Done Button' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on share' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Plus Options Button' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Start Post Process & Click on Post Button' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Select Image 2 for post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Done' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Next' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter the HashTag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tab on New Post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Tag People' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Image to Continue' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Tag Name to Search Stepinforum' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Select the Stepin forumTag Name' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Image to Continue' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter Tag Name to Search VeritySoftware' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Select the VeritySoftware Tag Name' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Done Button' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on share' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on plus icon' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Post ' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Select Image 3 for post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Done' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Next' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter the HashTag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tab on New Post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Tag People' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Search Tag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tag Names' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Search Tag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tag Names' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Screen_8' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on share' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on plus icon' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Post ' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 5.0043 ms
+[3] 10:25:41: Search started on 'Select Image 1 for post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Done' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Next' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter the HashTag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tab on New Post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Tag People' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Search Tag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tag Names' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Search Tag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tag Names' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Screen_8' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on share' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on plus icon' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Post ' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Select Image 5 for post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Done' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Next' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Enter the HashTag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tab on New Post' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on Tag People' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Search Tag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tag Names' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Wait for element to load' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Search Tag' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Tag Names' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Screen_8' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on share' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Click on plus icon' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Screen_10' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Screen_10' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Swipe On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Swipe On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Swipe On Screen' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Screen_10' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[3] 10:25:41: Search started on 'Screen_10' for query '->TestStepValueLogs[ActionMode=?"Verify"]'
+[3] 10:25:41: Searcher found 0 results in 0 ms
+[4] 10:26:23:  ShowStatusInfo: 'Ready'
+[4] 10:26:23:  ShowStatusInfo: 'EXPL_TestAutothon_Report finished'
+[3] 10:26:23: Task 'Print Report ... EXPL_TestAutothon_Report' finished
+[4] 10:26:28:  ShowStatusInfo: 'Ready'
+[4] 10:26:49:  ShowStatusInfo: '1 object selected'
+[4] 10:26:54:  ShowStatusInfo: 'Ready'
+[4] 10:27:08:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository (timeout in 5 seconds) ... '
+[4] 10:27:08:  ShowStatusInfo: 'Checkin all: Connecting to Common Repository succeeded'
+[3] 10:27:11: QTestIntegrationAddIn beginning to Export to QTest
+[3] 10:27:11: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 10:27:11: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 10:27:11: LinkTcToQTestService grouping testcases by same endpoint
+[3] 10:27:11: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 10:27:11: QTestIntegrationAddIn finished unlinking objects from QTest
+[4] 10:27:11:  ShowStatusInfo: 'Connecting to GitHub repository...'
+[3] 10:27:16: ObjectVersioning is enabled
+[3] 10:27:16: ObjectVersioning: Start collecting deleted objects
+[3] 10:27:16: ObjectVersioning: Finished collecting deleted objects
+[3] 10:27:16: ObjectVersioning: Begin creating changeset for 0 clusters.
+[3] 10:27:16: ObjectVersioning: Finished creating changeset.
+[4] 10:27:16:  ShowStatusInfo: 'BeforeTeamTaskCommit'
+[4] 10:27:17:  ShowStatusInfo: 'Ready'
+[4] 10:27:17:  ShowStatusInfo: 'Checkin all finalizing ... '
+[4] 10:27:17:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 10:27:17:  ShowStatusInfo: 'Ready'
+[4] 10:27:17:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 10:27:17:  ShowStatusInfo: 'Ready'
+[4] 10:27:17:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:27:17:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:27:17:  ShowStatusInfo: 'Checkin all finished'
+[3] 10:27:17: Task 'Checkin all' finished
+[4] 10:27:22:  ShowStatusInfo: 'Ready'
+[4] 10:29:21:  ShowStatusInfo: '1 object selected'
+[4] 10:29:21:  ShowStatusInfo: 'Ready'
+[4] 10:29:21:  ShowStatusInfo: '1 object selected'
+[4] 10:29:21:  ShowStatusInfo: 'Ready'
+[3] 10:29:22: Task 'Refresh Agents' started on '/Autothon/Execution/Configurations'
+[4] 10:29:22:  ShowStatusInfo: 'Refresh Agents'
+[4] 10:29:24:  ShowStatusInfo: 'Ready'
+[4] 10:29:24:  ShowStatusInfo: 'Refresh Agents finalizing ... '
+[4] 10:29:24:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 10:29:24:  ShowStatusInfo: 'Refresh navigation view 'TestCases_import230801_1049''
+[4] 10:29:24:  ShowStatusInfo: 'Refresh navigation view 'Autothon''
+[4] 10:29:24:  ShowStatusInfo: 'Ready'
+[4] 10:29:24:  ShowStatusInfo: 'Refresh navigation view 'Tosca_Autothon_Repo''
+[4] 10:29:24:  ShowStatusInfo: 'Refresh navigation view 'Test Autothon Hackathon''
+[4] 10:29:24:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 10:29:24:  ShowStatusInfo: 'Refresh detail view 'TestCases_import230801_1049''
+[4] 10:29:24:  ShowStatusInfo: 'Refresh detail view 'Autothon''
+[4] 10:29:24:  ShowStatusInfo: 'Ready'
+[4] 10:29:24:  ShowStatusInfo: 'Refresh detail view 'Tosca_Autothon_Repo''
+[4] 10:29:24:  ShowStatusInfo: 'Refresh detail view 'Test Autothon Hackathon''
+[4] 10:29:24:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 10:29:25:  ShowStatusInfo: 'Refresh all finished'
+[4] 10:29:25:  ShowStatusInfo: 'Refresh Agents finished'
+[3] 10:29:25: Task 'Refresh Agents' finished
+[4] 10:29:30:  ShowStatusInfo: 'Ready'
+[3] 10:32:10: Closing Workspace!
+[3] 10:32:10: Log closed!

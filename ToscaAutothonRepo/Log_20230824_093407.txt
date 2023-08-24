@@ -1,0 +1,30 @@
+[3] 09:34:07: Log started for 'C:\Data\GitRepo\ToscaRepoAutothon\ToscaAutothonRepo\ToscaAutothonRepo.tws'
+[3] 09:34:07: Log level: 4
+[3] 09:34:07: Release: 30.1.31.0
+[3] 09:34:07: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 09:34:12: No service discovery configured.
+[3] 09:34:12:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.7.958 (958)
+    - : QTestIntegration 15.0.0.183 (183)
+    + : SAPSolutionManagerIntegration 15.0.0.183 (183)
+[3] 09:34:12: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 09:34:12: Searcher found 0 results in 174.4979 ms
+[3] 09:34:12:  + OptIntAddIn: OptIntAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + RemoteControl: RemoteControlAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + Reporting: ReportingAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + ReportingUI: ReportingUIAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + RequirementsManagementAddIn: RequirementsManagement 15.0.7.958 (958)
+[3] 09:34:12:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.7.958 (958)
+[3] 09:34:12:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + TestCaseDesign: TestCaseDesign 15.0.7.958 (958)
+[3] 09:34:12:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.7.958 (958)
+[3] 09:34:12:  + XDefinitions: XDefinitions 15.0.7.958 (958)
+[3] 09:34:12:  + XDefinitionsUI: XDefinitionsUI 15.0.7.958 (958)
+[3] 09:34:17: Closing Workspace
+[3] 09:34:18: Closing Workspace!
+[3] 09:34:18: Log closed!
