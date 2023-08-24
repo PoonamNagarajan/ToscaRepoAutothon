@@ -30,7 +30,7 @@ set "$finaljwt=%jwtgenerated%"
 echo %$finaljwt%
 
 :: =========================================
-::  Define properties of the automation task.
+::  Define properties of the automation tasks
 ::  Replace the values below with data relevant to your project.
 :: =========================================
 
